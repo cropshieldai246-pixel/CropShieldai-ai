@@ -1,0 +1,8 @@
+{
+  "name": "CropShield AI",
+  "description": "Smarter Farming, Healthier Crops, Better Future. AI-powered agricultural assistant, crop leaf disease analysis, crop recommendation advisor, and supplier marketplace for Indian farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
